@@ -1,2 +1,0 @@
-# ChicoProject
-Projeto Chico Dafiti
